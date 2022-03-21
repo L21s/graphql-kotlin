@@ -1,3 +1,7 @@
+# Local Installation
+
+Simply run: ```./gradlew clean publishToMavenLocal```
+
 # GraphQL Kotlin
 
 [![Continuous Integration](https://github.com/ExpediaGroup/graphql-kotlin/workflows/Continuous%20Integration/badge.svg)](https://github.com/ExpediaGroup/graphql-kotlin/actions?query=workflow%3A%22Continuous+Integration%22)
